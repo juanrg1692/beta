@@ -1,0 +1,2572 @@
+﻿{
+    "Sheet1": [
+        {
+            "State": "Alabama",
+            "City": "Birmingham",
+            "Zip": "35203",
+            "MaskQuantity": "1420",
+            "Lat": "33.522859",
+            "Long": "-86.807705"
+        },
+        {
+            "State": "Alaska",
+            "City": "Akutan",
+            "Zip": "99553",
+            "MaskQuantity": "500",
+            "Lat": "54.135489",
+            "Long": "-165.788166"
+        },
+        {
+            "State": "Alaska",
+            "City": "Hoover",
+            "Zip": "35226",
+            "MaskQuantity": "500",
+            "Lat": "33.387939",
+            "Long": "-86.806121"
+        },
+        {
+            "State": "Arizona",
+            "City": "Bapchule",
+            "Zip": "85121",
+            "MaskQuantity": "2000",
+            "Lat": "33.136398",
+            "Long": "-111.872498"
+        },
+        {
+            "State": "Arizona",
+            "City": "Scottsdale",
+            "Zip": "85258",
+            "MaskQuantity": "500",
+            "Lat": "33.494909",
+            "Long": "-111.926061"
+        },
+        {
+            "State": "Arizona",
+            "City": "Littleton",
+            "Zip": "86303",
+            "MaskQuantity": "500",
+            "Lat": "39.612653",
+            "Long": "-105.016198"
+        },
+        {
+            "State": "Arizona",
+            "City": "Prescott",
+            "Zip": "86020",
+            "MaskQuantity": "500",
+            "Lat": "44.710378",
+            "Long": "-75.512836"
+        },
+        {
+            "State": "Arizona",
+            "City": "Cameron",
+            "Zip": "86004",
+            "MaskQuantity": "500",
+            "Lat": "35.8758",
+            "Long": "-111.4129"
+        },
+        {
+            "State": "Arizona",
+            "City": "Flagstaff",
+            "Zip": "86511",
+            "MaskQuantity": "500",
+            "Lat": "35.198177",
+            "Long": "-111.65132"
+        },
+        {
+            "State": "Arizona",
+            "City": "St. Michael",
+            "Zip": "86031",
+            "MaskQuantity": "500",
+            "Lat": "45.210143",
+            "Long": "-93.664792"
+        },
+        {
+            "State": "Arizona",
+            "City": "Mesa",
+            "Zip": "85206",
+            "MaskQuantity": "500",
+            "Lat": "33.42146",
+            "Long": "-111.75116"
+        },
+        {
+            "State": "Arizona",
+            "City": "Tucson",
+            "Zip": "85714",
+            "MaskQuantity": "500",
+            "Lat": "32.05022",
+            "Long": "-111.421"
+        },
+        {
+            "State": "Arizona",
+            "City": "Chandler",
+            "Zip": "85224",
+            "MaskQuantity": "500",
+            "Lat": "33.23527",
+            "Long": "-111.84127"
+        },
+        {
+            "State": "Arizona",
+            "City": "Page",
+            "Zip": "86040",
+            "MaskQuantity": "500",
+            "Lat": "36.89258",
+            "Long": "-111.46735"
+        },
+        {
+            "State": "Arizona",
+            "City": "Indian Wells",
+            "Zip": "86031",
+            "MaskQuantity": "300",
+            "Lat": "32.7405",
+            "Long": "-114.70044"
+        },
+        {
+            "State": "Arizona",
+            "City": "Winslow",
+            "Zip": "86047",
+            "MaskQuantity": "1360",
+            "Lat": "35.18291",
+            "Long": "-110.07206"
+        },
+        {
+            "State": "Arizona",
+            "City": "Navajo- Bodaway Gap Chapter, Cameron",
+            "Zip": "86020",
+            "MaskQuantity": "1000",
+            "Lat": "35.84984",
+            "Long": "-111.42935"
+        },
+        {
+            "State": "Arizona",
+            "City": "Tohono O’odham Nation, Sells",
+            "Zip": "85634",
+            "MaskQuantity": "1000",
+            "Lat": "32.03087",
+            "Long": "-111.06219"
+        },
+        {
+            "State": "Arizona",
+            "City": "Navajo Nation- Indian Wells",
+            "Zip": "86031",
+            "MaskQuantity": "800",
+            "Lat": "35.39244",
+            "Long": "-110.08641"
+        },
+        {
+            "State": "Arizona",
+            "City": "Navajo Nation- Chinle",
+            "Zip": "86503",
+            "MaskQuantity": "800",
+            "Lat": "36.14721",
+            "Long": "-109.55716"
+        },
+        {
+            "State": "Arizona",
+            "City": "Navajo Nation- Window Rock",
+            "Zip": "86515",
+            "MaskQuantity": "800",
+            "Lat": "35.67837",
+            "Long": "-109.05055"
+        },
+        {
+            "State": "Arkansas",
+            "City": "North Little Rock",
+            "Zip": "72114",
+            "MaskQuantity": "520",
+            "Lat": "34.80044",
+            "Long": "-92.25502"
+        },
+        {
+            "State": "California",
+            "City": "Hawthorne",
+            "Zip": "90250",
+            "MaskQuantity": "60",
+            "Lat": "38.27852",
+            "Long": "-76.48831"
+        },
+        {
+            "State": "California",
+            "City": "Chula Vista",
+            "Zip": "91910",
+            "MaskQuantity": "500",
+            "Lat": "34.48722",
+            "Long": "-114.41188"
+        },
+        {
+            "State": "California",
+            "City": "Monterey",
+            "Zip": "93940",
+            "MaskQuantity": "600",
+            "Lat": "40.067097",
+            "Long": "-79.894911"
+        },
+        {
+            "State": "California",
+            "City": "San Diego",
+            "Zip": "92115",
+            "MaskQuantity": "100",
+            "Lat": "38.10471",
+            "Long": "13.50012"
+        },
+        {
+            "State": "California",
+            "City": "Sacramento",
+            "Zip": "95823",
+            "MaskQuantity": "200",
+            "Lat": "38.52102",
+            "Long": "-121.46574"
+        },
+        {
+            "State": "California",
+            "City": "West Hollywood",
+            "Zip": "90069",
+            "MaskQuantity": "2000",
+            "Lat": "34.09075",
+            "Long": "-118.36683"
+        },
+        {
+            "State": "California",
+            "City": "Los Angeles",
+            "Zip": "90021",
+            "MaskQuantity": "3000",
+            "Lat": "34.2727",
+            "Long": "-119.1335"
+        },
+        {
+            "State": "California",
+            "City": "Los Angeles",
+            "Zip": "90024",
+            "MaskQuantity": "927",
+            "Lat": "34.2727",
+            "Long": "-119.1335"
+        },
+        {
+            "State": "California",
+            "City": "Los Angeles",
+            "Zip": "90031",
+            "MaskQuantity": "927",
+            "Lat": "34.2727",
+            "Long": "-119.1335"
+        },
+        {
+            "State": "California",
+            "City": "Los Angeles",
+            "Zip": "90073",
+            "MaskQuantity": "927",
+            "Lat": "34.2727",
+            "Long": "-119.1335"
+        },
+        {
+            "State": "California",
+            "City": "Los Angeles",
+            "Zip": "91204",
+            "MaskQuantity": "927",
+            "Lat": "34.2727",
+            "Long": "-119.1335"
+        },
+        {
+            "State": "California",
+            "City": "Los Angeles",
+            "Zip": "91595",
+            "MaskQuantity": "927",
+            "Lat": "34.2727",
+            "Long": "-119.1335"
+        },
+        {
+            "State": "California",
+            "City": "Los Angeles",
+            "Zip": "91208",
+            "MaskQuantity": "927",
+            "Lat": "34.2727",
+            "Long": "-119.1335"
+        },
+        {
+            "State": "California",
+            "City": "Los Angeles",
+            "Zip": "91206",
+            "MaskQuantity": "927",
+            "Lat": "34.2727",
+            "Long": "-119.1335"
+        },
+        {
+            "State": "California",
+            "City": "Los Angeles",
+            "Zip": "90048",
+            "MaskQuantity": "927",
+            "Lat": "34.2727",
+            "Long": "-119.1335"
+        },
+        {
+            "State": "California",
+            "City": "Los Angeles",
+            "Zip": "90027",
+            "MaskQuantity": "927",
+            "Lat": "34.2727",
+            "Long": "-119.1335"
+        },
+        {
+            "State": "California",
+            "City": "Los Angeles",
+            "Zip": "91020",
+            "MaskQuantity": "927",
+            "Lat": "34.2727",
+            "Long": "-119.1335"
+        },
+        {
+            "State": "California",
+            "City": "Los Angeles",
+            "Zip": "91214",
+            "MaskQuantity": "927",
+            "Lat": "34.2727",
+            "Long": "-119.1335"
+        },
+        {
+            "State": "California",
+            "City": "Los Angeles",
+            "Zip": "90211",
+            "MaskQuantity": "927",
+            "Lat": "34.2727",
+            "Long": "-119.1335"
+        },
+        {
+            "State": "California",
+            "City": "Los Angeles",
+            "Zip": "90210",
+            "MaskQuantity": "927",
+            "Lat": "34.2727",
+            "Long": "-119.1335"
+        },
+        {
+            "State": "California",
+            "City": "Compton",
+            "Zip": "90220",
+            "MaskQuantity": "5000",
+            "Lat": "33.87399",
+            "Long": "-118.22689"
+        },
+        {
+            "State": "California",
+            "City": "Los Angeles",
+            "Zip": "90031",
+            "MaskQuantity": "2000",
+            "Lat": "34.2727",
+            "Long": "-119.1335"
+        },
+        {
+            "State": "California",
+            "City": "Palo Alto",
+            "Zip": "94304",
+            "MaskQuantity": "295",
+            "Lat": "34.421",
+            "Long": "-119.29361"
+        },
+        {
+            "State": "California",
+            "City": "San Francisco",
+            "Zip": "94107",
+            "MaskQuantity": "295",
+            "Lat": "19.56713",
+            "Long": "-96.94985"
+        },
+        {
+            "State": "California",
+            "City": "San Francisco",
+            "Zip": "94109",
+            "MaskQuantity": "295",
+            "Lat": "19.56713",
+            "Long": "-96.94985"
+        },
+        {
+            "State": "California",
+            "City": "Daly City",
+            "Zip": "94015",
+            "MaskQuantity": "295",
+            "Lat": "37.70387",
+            "Long": "-122.47153"
+        },
+        {
+            "State": "California",
+            "City": "Milpitas",
+            "Zip": "95035",
+            "MaskQuantity": "295",
+            "Lat": "37.45352",
+            "Long": "-121.92087"
+        },
+        {
+            "State": "California",
+            "City": "San Jose",
+            "Zip": "95110",
+            "MaskQuantity": "295",
+            "Lat": "37.71242",
+            "Long": "-122.45455"
+        },
+        {
+            "State": "California",
+            "City": "San Mateo",
+            "Zip": "94402",
+            "MaskQuantity": "295",
+            "Lat": "37.48231",
+            "Long": "-122.40205"
+        },
+        {
+            "State": "California",
+            "City": "San Francisco",
+            "Zip": "94118",
+            "MaskQuantity": "295",
+            "Lat": "19.56713",
+            "Long": "-96.94985"
+        },
+        {
+            "State": "California",
+            "City": "San Francisco",
+            "Zip": "94122",
+            "MaskQuantity": "295",
+            "Lat": "19.56713",
+            "Long": "-96.94985"
+        },
+        {
+            "State": "California",
+            "City": "San Francisco",
+            "Zip": "94133",
+            "MaskQuantity": "295",
+            "Lat": "19.56713",
+            "Long": "-96.94985"
+        },
+        {
+            "State": "California",
+            "City": "San Francisco",
+            "Zip": "94105",
+            "MaskQuantity": "295",
+            "Lat": "19.56713",
+            "Long": "-96.94985"
+        },
+        {
+            "State": "California",
+            "City": "San Francisco",
+            "Zip": "94115",
+            "MaskQuantity": "295",
+            "Lat": "19.56713",
+            "Long": "-96.94985"
+        },
+        {
+            "State": "California",
+            "City": "San Francisco",
+            "Zip": "94158",
+            "MaskQuantity": "295",
+            "Lat": "19.56713",
+            "Long": "-96.94985"
+        },
+        {
+            "State": "California",
+            "City": "San Francisco",
+            "Zip": "94110",
+            "MaskQuantity": "295",
+            "Lat": "19.56713",
+            "Long": "-96.94985"
+        },
+        {
+            "State": "California",
+            "City": "San Francisco",
+            "Zip": "94103",
+            "MaskQuantity": "295",
+            "Lat": "19.56713",
+            "Long": "-96.94985"
+        },
+        {
+            "State": "California",
+            "City": "San Francisco",
+            "Zip": "94124",
+            "MaskQuantity": "295",
+            "Lat": "19.56713",
+            "Long": "-96.94985"
+        },
+        {
+            "State": "California",
+            "City": "San Francisco",
+            "Zip": "94102",
+            "MaskQuantity": "295",
+            "Lat": "19.56713",
+            "Long": "-96.94985"
+        },
+        {
+            "State": "California",
+            "City": "Vallejo",
+            "Zip": "94591",
+            "MaskQuantity": "295",
+            "Lat": "38.07632",
+            "Long": "-122.23251"
+        },
+        {
+            "State": "California",
+            "City": "San Mateo",
+            "Zip": "94403",
+            "MaskQuantity": "295",
+            "Lat": "37.48231",
+            "Long": "-122.40205"
+        },
+        {
+            "State": "California",
+            "City": "Fresno",
+            "Zip": "93704",
+            "MaskQuantity": "2000",
+            "Lat": "36.83414",
+            "Long": "-119.79452"
+        },
+        {
+            "State": "Colorado",
+            "City": "Denver",
+            "Zip": "80212",
+            "MaskQuantity": "2000",
+            "Lat": "39.67902",
+            "Long": "-104.93669"
+        },
+        {
+            "State": "Colorado",
+            "City": "Denver",
+            "Zip": "80200",
+            "MaskQuantity": "8000",
+            "Lat": "39.67902",
+            "Long": "-104.93669"
+        },
+        {
+            "State": "Colorado",
+            "City": "Denver",
+            "Zip": "80211",
+            "MaskQuantity": "4000",
+            "Lat": "39.67902",
+            "Long": "-104.93669"
+        },
+        {
+            "State": "Colorado",
+            "City": "Denver ",
+            "Zip": "80206",
+            "MaskQuantity": "10000",
+            "Lat": "39.67902",
+            "Long": "-104.93669"
+        },
+        {
+            "State": "Colorado",
+            "City": "Towaoc",
+            "Zip": "81334",
+            "MaskQuantity": "200",
+            "Lat": "37.09091",
+            "Long": "-109.00138"
+        },
+        {
+            "State": "Connecticut",
+            "City": "Waterbury",
+            "Zip": "6702",
+            "MaskQuantity": "1500",
+            "Lat": "44.3853",
+            "Long": "-90.598297"
+        },
+        {
+            "State": "D.C",
+            "City": "Washington, South East DC",
+            "Zip": "20020",
+            "MaskQuantity": "600",
+            "Lat": "38.91907",
+            "Long": "-77.03986"
+        },
+        {
+            "State": "Delaware",
+            "City": "Bear",
+            "Zip": "19701",
+            "MaskQuantity": "2000",
+            "Lat": "39.57865",
+            "Long": "-75.68996"
+        },
+        {
+            "State": "Delaware",
+            "City": "Wilmington",
+            "Zip": "19801",
+            "MaskQuantity": "500",
+            "Lat": "39.725791",
+            "Long": "-75.644395"
+        },
+        {
+            "State": "Florida",
+            "City": "Lehigh Acres",
+            "Zip": "33936-5808",
+            "MaskQuantity": "500",
+            "Lat": "26.603211",
+            "Long": "-81.644582"
+        },
+        {
+            "State": "Florida",
+            "City": "Port St. Lucie",
+            "Zip": "34986",
+            "MaskQuantity": "400",
+            "Lat": "27.273274",
+            "Long": "-80.342148"
+        },
+        {
+            "State": "Florida",
+            "City": "Ft. Myers",
+            "Zip": "33908",
+            "MaskQuantity": "200",
+            "Lat": "26.614149",
+            "Long": "-81.825769"
+        },
+        {
+            "State": "Florida",
+            "City": "Key Largo",
+            "Zip": "33037",
+            "MaskQuantity": "300",
+            "Lat": "26.89282",
+            "Long": "-82.07276"
+        },
+        {
+            "State": "Florida",
+            "City": "Jacksonville",
+            "Zip": "32216",
+            "MaskQuantity": "2000",
+            "Lat": "30.39536",
+            "Long": "-81.43667"
+        },
+        {
+            "State": "Florida",
+            "City": "Gainesville",
+            "Zip": "32609",
+            "MaskQuantity": "1500",
+            "Lat": "29.63544",
+            "Long": "-82.34446"
+        },
+        {
+            "State": "Florida",
+            "City": "Naples",
+            "Zip": "34102",
+            "MaskQuantity": "1200",
+            "Lat": "38.478292",
+            "Long": "-82.651836"
+        },
+        {
+            "State": "Florida",
+            "City": "Pembroke Pines",
+            "Zip": "33025",
+            "MaskQuantity": "200",
+            "Lat": "26.01132",
+            "Long": "-80.31212"
+        },
+        {
+            "State": "Florida",
+            "City": "Pembroke Pines",
+            "Zip": "33028",
+            "MaskQuantity": "120",
+            "Lat": "26.01132",
+            "Long": "-80.31212"
+        },
+        {
+            "State": "Florida",
+            "City": "West Palm Beach",
+            "Zip": "33411",
+            "MaskQuantity": "1500",
+            "Lat": "26.72481",
+            "Long": "-80.07553"
+        },
+        {
+            "State": "Florida",
+            "City": "Hialeah",
+            "Zip": "33014",
+            "MaskQuantity": "1300",
+            "Lat": "25.84116",
+            "Long": "-80.29747"
+        },
+        {
+            "State": "Florida",
+            "City": "Hialeah",
+            "Zip": "33010",
+            "MaskQuantity": "2020",
+            "Lat": "25.84116",
+            "Long": "-80.29747"
+        },
+        {
+            "State": "Florida",
+            "City": "Hialeah Gardens",
+            "Zip": "33018",
+            "MaskQuantity": "1000",
+            "Lat": "28.878706",
+            "Long": "-81.695502"
+        },
+        {
+            "State": "Florida",
+            "City": "Delray Beach",
+            "Zip": "33484",
+            "MaskQuantity": "220",
+            "Lat": "26.461634",
+            "Long": "-80.073107"
+        },
+        {
+            "State": "Florida",
+            "City": "Delray",
+            "Zip": "33444",
+            "MaskQuantity": "300",
+            "Lat": "26.45701",
+            "Long": "-80.20466"
+        },
+        {
+            "State": "Florida",
+            "City": "Lauderdale Lakes",
+            "Zip": "33309",
+            "MaskQuantity": "20",
+            "Lat": "26.16487",
+            "Long": "-80.20349"
+        },
+        {
+            "State": "Florida",
+            "City": "Fort Pierce",
+            "Zip": "34950",
+            "MaskQuantity": "160",
+            "Lat": "27.447119",
+            "Long": "-80.337237"
+        },
+        {
+            "State": "Florida",
+            "City": "Sebastian",
+            "Zip": "32958",
+            "MaskQuantity": "2000",
+            "Lat": "27.74863",
+            "Long": "-80.47844"
+        },
+        {
+            "State": "Florida",
+            "City": "Miami Beach",
+            "Zip": "33139",
+            "MaskQuantity": "2000",
+            "Lat": "25.79664",
+            "Long": "-80.12735"
+        },
+        {
+            "State": "Florida",
+            "City": "Miami Beach",
+            "Zip": "33140",
+            "MaskQuantity": "4000",
+            "Lat": "25.79664",
+            "Long": "-80.12735"
+        },
+        {
+            "State": "Florida",
+            "City": "Coral Gables, Pinecrest",
+            "Zip": "33156",
+            "MaskQuantity": "3200",
+            "Lat": "38.827335",
+            "Long": "-77.156647"
+        },
+        {
+            "State": "Florida",
+            "City": "Coral Gables ( UM hospital )",
+            "Zip": "33146",
+            "MaskQuantity": "8160",
+            "Lat": "25.72812",
+            "Long": "-80.25768"
+        },
+        {
+            "State": "Florida",
+            "City": "Coral Gables ( UM)",
+            "Zip": "33134",
+            "MaskQuantity": "4000",
+            "Lat": "25.72812",
+            "Long": "-80.25768"
+        },
+        {
+            "State": "Florida",
+            "City": "Port of Miami",
+            "Zip": "33132",
+            "MaskQuantity": "200",
+            "Lat": "25.77573",
+            "Long": "-80.17344"
+        },
+        {
+            "State": "Florida",
+            "City": "Bay Harbor Islands",
+            "Zip": "33154",
+            "MaskQuantity": "400",
+            "Lat": "25.889917",
+            "Long": "-80.134964"
+        },
+        {
+            "State": "Florida",
+            "City": "Boynton Beach",
+            "Zip": "33435",
+            "MaskQuantity": "200",
+            "Lat": "26.528911",
+            "Long": "-80.064171"
+        },
+        {
+            "State": "Florida",
+            "City": "Miami",
+            "Zip": "33155",
+            "MaskQuantity": "6000",
+            "Lat": "25.775084",
+            "Long": "-80.194702"
+        },
+        {
+            "State": "Florida",
+            "City": "Miami",
+            "Zip": "33133",
+            "MaskQuantity": "14,000",
+            "Lat": "35.692494",
+            "Long": "-100.639194"
+        },
+        {
+            "State": "Florida",
+            "City": "Miami",
+            "Zip": "33146",
+            "MaskQuantity": "2000",
+            "Lat": "35.692494",
+            "Long": "-100.639194"
+        },
+        {
+            "State": "Florida",
+            "City": "Miami",
+            "Zip": "33145",
+            "MaskQuantity": "2000",
+            "Lat": "38.152199",
+            "Long": "-81.448097"
+        },
+        {
+            "State": "Florida",
+            "City": "Miami",
+            "Zip": "33126",
+            "MaskQuantity": "720",
+            "Lat": "36.876224",
+            "Long": "-94.877542"
+        },
+        {
+            "State": "Florida",
+            "City": "Miami",
+            "Zip": "33125",
+            "MaskQuantity": "40",
+            "Lat": "25.775084",
+            "Long": "-80.194702"
+        },
+        {
+            "State": "Florida",
+            "City": "Miami",
+            "Zip": "33184",
+            "MaskQuantity": "200",
+            "Lat": "36.876224",
+            "Long": "-94.877542"
+        },
+        {
+            "State": "Florida",
+            "City": "Miami",
+            "Zip": "33183",
+            "MaskQuantity": "200",
+            "Lat": "35.692494",
+            "Long": "-100.639194"
+        },
+        {
+            "State": "Florida",
+            "City": "Miami",
+            "Zip": "33032",
+            "MaskQuantity": "400",
+            "Lat": "25.775084",
+            "Long": "-80.194702"
+        },
+        {
+            "State": "Florida",
+            "City": "Miami",
+            "Zip": "33189",
+            "MaskQuantity": "200",
+            "Lat": "36.876224",
+            "Long": "-94.877542"
+        },
+        {
+            "State": "Florida",
+            "City": "Miami",
+            "Zip": "33194",
+            "MaskQuantity": "200",
+            "Lat": "25.775084",
+            "Long": "-80.194702"
+        },
+        {
+            "State": "Florida",
+            "City": "Miami",
+            "Zip": "33176",
+            "MaskQuantity": "200",
+            "Lat": "35.692494",
+            "Long": "-100.639194"
+        },
+        {
+            "State": "Florida",
+            "City": "Miami",
+            "Zip": "33175",
+            "MaskQuantity": "200",
+            "Lat": "35.692494",
+            "Long": "-100.639194"
+        },
+        {
+            "State": "Florida",
+            "City": "Orlando",
+            "Zip": "32824",
+            "MaskQuantity": "2000",
+            "Lat": "28.564",
+            "Long": "-81.14045"
+        },
+        {
+            "State": "Florida",
+            "City": "Orlando",
+            "Zip": "32805",
+            "MaskQuantity": "2000",
+            "Lat": "28.564",
+            "Long": "-81.14045"
+        },
+        {
+            "State": "Florida",
+            "City": "Ocala",
+            "Zip": "34471-7828",
+            "MaskQuantity": "2000",
+            "Lat": "29.189311",
+            "Long": "-82.137789"
+        },
+        {
+            "State": "Florida",
+            "City": "Ft. Lauderdale",
+            "Zip": "33312",
+            "MaskQuantity": "2000",
+            "Lat": "26.11758",
+            "Long": "-80.10464"
+        },
+        {
+            "State": "Florida",
+            "City": "Coconut Grove",
+            "Zip": "33133",
+            "MaskQuantity": "4020",
+            "Lat": "30.2007",
+            "Long": "-85.83553"
+        },
+        {
+            "State": "Florida",
+            "City": "Key Biscayne",
+            "Zip": "33149",
+            "MaskQuantity": "4000",
+            "Lat": "25.692497",
+            "Long": "-80.169556"
+        },
+        {
+            "State": "Florida",
+            "City": "Miami Beach",
+            "Zip": "33140",
+            "MaskQuantity": "4000",
+            "Lat": "25.79664",
+            "Long": "-80.12735"
+        },
+        {
+            "State": "Florida",
+            "City": "Cakeworth",
+            "Zip": "33467",
+            "MaskQuantity": "4000",
+            "Lat": "28.77949",
+            "Long": "-81.36674"
+        },
+        {
+            "State": "Florida",
+            "City": "Margate",
+            "Zip": "33063",
+            "MaskQuantity": "4000",
+            "Lat": "26.242534",
+            "Long": "-80.204917"
+        },
+        {
+            "State": "Florida",
+            "City": "Little Haiti Cultural Center",
+            "Zip": "33137",
+            "MaskQuantity": "2000",
+            "Lat": "27.84778",
+            "Long": "-82.60858"
+        },
+        {
+            "State": "Florida",
+            "City": "Little Haiti/ Liberty City",
+            "Zip": "33127",
+            "MaskQuantity": "1750",
+            "Lat": "30.17112",
+            "Long": "-85.59948"
+        },
+        {
+            "State": "Florida",
+            "City": "Little Haiti/ Liberty City",
+            "Zip": "33142",
+            "MaskQuantity": "1000",
+            "Lat": "30.17112",
+            "Long": "-85.59948"
+        },
+        {
+            "State": "Florida",
+            "City": "Little Haiti/ Liberty City",
+            "Zip": "33147",
+            "MaskQuantity": "1950",
+            "Lat": "30.17112",
+            "Long": "-85.59948"
+        },
+        {
+            "State": "Florida",
+            "City": "Little Haiti/ Liberty City",
+            "Zip": "33150",
+            "MaskQuantity": "1750",
+            "Lat": "30.17112",
+            "Long": "-85.59948"
+        },
+        {
+            "State": "Florida",
+            "City": "Ocala",
+            "Zip": "34470",
+            "MaskQuantity": "4000",
+            "Lat": "29.189311",
+            "Long": "-82.137789"
+        },
+        {
+            "State": "Florida",
+            "City": "Jacksonville",
+            "Zip": "32209",
+            "MaskQuantity": "2000",
+            "Lat": "30.39536",
+            "Long": "-81.43667"
+        },
+        {
+            "State": "Florida",
+            "City": "Miami Springs",
+            "Zip": "33142",
+            "MaskQuantity": "2000",
+            "Lat": "25.810181",
+            "Long": "-80.265644"
+        },
+        {
+            "State": "Florida",
+            "City": "Little Havana",
+            "Zip": "33128",
+            "MaskQuantity": "1500",
+            "Lat": "30.68801",
+            "Long": "-84.39837"
+        },
+        {
+            "State": "Florida",
+            "City": "Ft. Meyers",
+            "Zip": "33901",
+            "MaskQuantity": "800",
+            "Lat": "26.64983",
+            "Long": "-81.84788"
+        },
+        {
+            "State": "Florida",
+            "City": "Tallahassee",
+            "Zip": "32304",
+            "MaskQuantity": "1500",
+            "Lat": "30.51852",
+            "Long": "-84.0412"
+        },
+        {
+            "State": "Florida",
+            "City": "Gadsden",
+            "Zip": "32332",
+            "MaskQuantity": "1000",
+            "Lat": "33.98337",
+            "Long": "-85.96418"
+        },
+        {
+            "State": "Florida",
+            "City": "Pensacola",
+            "Zip": "32508",
+            "MaskQuantity": "1000",
+            "Lat": "30.40123",
+            "Long": "-87.31783"
+        },
+        {
+            "State": "Florida",
+            "City": "Homestead",
+            "Zip": "33035",
+            "MaskQuantity": "800",
+            "Lat": "25.47471",
+            "Long": "-80.46681"
+        },
+        {
+            "State": "Florida",
+            "City": "Homestead",
+            "Zip": "33031",
+            "MaskQuantity": "2200",
+            "Lat": "25.47471",
+            "Long": "-80.46681"
+        },
+        {
+            "State": "Florida",
+            "City": "Homestead",
+            "Zip": "33030",
+            "MaskQuantity": "300",
+            "Lat": "25.47471",
+            "Long": "-80.46681"
+        },
+        {
+            "State": "Florida",
+            "City": "Homestead",
+            "Zip": "33033",
+            "MaskQuantity": "200",
+            "Lat": "25.47471",
+            "Long": "-80.46681"
+        },
+        {
+            "State": "Florida",
+            "City": "Hollywood",
+            "Zip": "33021",
+            "MaskQuantity": "500",
+            "Lat": "26.00643",
+            "Long": "-80.20734"
+        },
+        {
+            "State": "Florida",
+            "City": "Allapata",
+            "Zip": "33136",
+            "MaskQuantity": "1000",
+            "Lat": "25.814199",
+            "Long": "-80.224197"
+        },
+        {
+            "State": "Florida",
+            "City": "Allapata",
+            "Zip": "33125",
+            "MaskQuantity": "1000",
+            "Lat": "25.814199",
+            "Long": "-80.224197"
+        },
+        {
+            "State": "Florida",
+            "City": "Allapata",
+            "Zip": "33127",
+            "MaskQuantity": "800",
+            "Lat": "25.814199",
+            "Long": "-80.224197"
+        },
+        {
+            "State": "Florida",
+            "City": "Allapata",
+            "Zip": "33142",
+            "MaskQuantity": "1000",
+            "Lat": "25.814199",
+            "Long": "-80.224197"
+        },
+        {
+            "State": "Florida",
+            "City": "Palmetto Bay",
+            "Zip": "33158",
+            "MaskQuantity": "700",
+            "Lat": "25.621012",
+            "Long": "-80.324944"
+        },
+        {
+            "State": "Florida",
+            "City": "Doral",
+            "Zip": "33122",
+            "MaskQuantity": "1000",
+            "Lat": "26.21052",
+            "Long": "-80.21858"
+        },
+        {
+            "State": "Florida",
+            "City": "Doral",
+            "Zip": "33172",
+            "MaskQuantity": "500",
+            "Lat": "26.21052",
+            "Long": "-80.21858"
+        },
+        {
+            "State": "Florida",
+            "City": "Mid-Beach, South Beach",
+            "Zip": "33139",
+            "MaskQuantity": "800",
+            "Lat": "30.18396",
+            "Long": "-85.80862"
+        },
+        {
+            "State": "Florida",
+            "City": "Downtown Miami hospitals",
+            "Zip": "33128",
+            "MaskQuantity": "10000",
+            "Lat": "30.31631",
+            "Long": "-81.65754"
+        },
+        {
+            "State": "Florida",
+            "City": "Aventura",
+            "Zip": "33180",
+            "MaskQuantity": "1100",
+            "Lat": "25.96335",
+            "Long": "-80.14717"
+        },
+        {
+            "State": "Florida",
+            "City": "Aventura",
+            "Zip": "33160",
+            "MaskQuantity": "400",
+            "Lat": "25.96335",
+            "Long": "-80.14717"
+        },
+        {
+            "State": "Florida",
+            "City": "West Kendall",
+            "Zip": "33186",
+            "MaskQuantity": "1000",
+            "Lat": "28.878706",
+            "Long": "-81.695502"
+        },
+        {
+            "State": "Florida",
+            "City": "West Kendall",
+            "Zip": "33185",
+            "MaskQuantity": "500",
+            "Lat": "28.878706",
+            "Long": "-81.695502"
+        },
+        {
+            "State": "Florida",
+            "City": "West Kendall",
+            "Zip": "33196",
+            "MaskQuantity": "800",
+            "Lat": "28.878706",
+            "Long": "-81.695502"
+        },
+        {
+            "State": "Florida",
+            "City": "Tamiami",
+            "Zip": "33193",
+            "MaskQuantity": "400",
+            "Lat": "25.77374",
+            "Long": "-80.38515"
+        },
+        {
+            "State": "Florida",
+            "City": "Loxahatchee",
+            "Zip": "33470",
+            "MaskQuantity": "2000",
+            "Lat": "26.71682",
+            "Long": "-80.43648"
+        },
+        {
+            "State": "Florida",
+            "City": "South Miami",
+            "Zip": "33143",
+            "MaskQuantity": "4000",
+            "Lat": "25.76805",
+            "Long": "-80.19493"
+        },
+        {
+            "State": "Florida",
+            "City": "North Miami Lakes",
+            "Zip": "33015",
+            "MaskQuantity": "1200",
+            "Lat": "45.43991",
+            "Long": "-73.853967"
+        },
+        {
+            "State": "Florida",
+            "City": "Miami Springs and Medley",
+            "Zip": "33166",
+            "MaskQuantity": "700",
+            "Lat": "25.83619",
+            "Long": "-80.30398"
+        },
+        {
+            "State": "Florida",
+            "City": "Richmond West and Aladdin City",
+            "Zip": "33187",
+            "MaskQuantity": "500",
+            "Lat": "28.10301",
+            "Long": "-81.63973"
+        },
+        {
+            "State": "Florida",
+            "City": "Tamiami",
+            "Zip": "33184",
+            "MaskQuantity": "500",
+            "Lat": "25.77374",
+            "Long": "-80.38515"
+        },
+        {
+            "State": "Florida",
+            "City": "Cutler Bay",
+            "Zip": "33157",
+            "MaskQuantity": "900",
+            "Lat": "25.579085",
+            "Long": "-80.367824"
+        },
+        {
+            "State": "Florida",
+            "City": "Cutler Ridge",
+            "Zip": "33189",
+            "MaskQuantity": "200",
+            "Lat": "28.878706",
+            "Long": "-81.695502"
+        },
+        {
+            "State": "Florida",
+            "City": "South Miami Heights, Goulds, Zoo Miami",
+            "Zip": "33177",
+            "MaskQuantity": "500",
+            "Lat": "25.59041",
+            "Long": "-80.36921"
+        },
+        {
+            "State": "Florida",
+            "City": "Westchester, University Park, Olympia Heights",
+            "Zip": "33165",
+            "MaskQuantity": "700",
+            "Lat": "25.73215",
+            "Long": "-80.32377"
+        },
+        {
+            "State": "Florida",
+            "City": "North Bay Village, Normandy Isles",
+            "Zip": "33141",
+            "MaskQuantity": "500",
+            "Lat": "25.84865",
+            "Long": "-80.15311"
+        },
+        {
+            "State": "Florida",
+            "City": "Miami Lakes and Hialeah Gardens",
+            "Zip": "33016",
+            "MaskQuantity": "1000",
+            "Lat": "28.878706",
+            "Long": "-81.695502"
+        },
+        {
+            "State": "Florida",
+            "City": "North Miami",
+            "Zip": "33169",
+            "MaskQuantity": "800",
+            "Lat": "25.7998",
+            "Long": "-80.19498"
+        },
+        {
+            "State": "Florida",
+            "City": "North Miami",
+            "Zip": "33168",
+            "MaskQuantity": "1500",
+            "Lat": "25.7998",
+            "Long": "-80.19498"
+        },
+        {
+            "State": "Florida",
+            "City": "Sweetwater",
+            "Zip": "33174",
+            "MaskQuantity": "700",
+            "Lat": "32.44785",
+            "Long": "-100.39871"
+        },
+        {
+            "State": "Florida",
+            "City": "Opa -Locka",
+            "Zip": "33054",
+            "MaskQuantity": "500",
+            "Lat": "28.878706",
+            "Long": "-81.695502"
+        },
+        {
+            "State": "Florida",
+            "City": "Opa- Locka",
+            "Zip": "33055",
+            "MaskQuantity": "500",
+            "Lat": "28.878706",
+            "Long": "-81.695502"
+        },
+        {
+            "State": "Florida",
+            "City": "Goulds",
+            "Zip": "33170",
+            "MaskQuantity": "200",
+            "Lat": "25.558912",
+            "Long": "-80.382431"
+        },
+        {
+            "State": "Florida",
+            "City": "North Miami Beach",
+            "Zip": "33162",
+            "MaskQuantity": "1000",
+            "Lat": "25.92735",
+            "Long": "-80.18062"
+        },
+        {
+            "State": "Florida",
+            "City": "West Miami",
+            "Zip": "33144",
+            "MaskQuantity": "200",
+            "Lat": "25.759319",
+            "Long": "-80.297768"
+        },
+        {
+            "State": "Florida",
+            "City": "Liberty City and Brownsville",
+            "Zip": "33147",
+            "MaskQuantity": "500",
+            "Lat": "25.90267",
+            "Long": "-97.3825"
+        },
+        {
+            "State": "Florida",
+            "City": "Liberty City and Allapattah",
+            "Zip": "33127",
+            "MaskQuantity": "500",
+            "Lat": "30.2925",
+            "Long": "-85.64392"
+        },
+        {
+            "State": "Florida",
+            "City": "Liberty City and Allapattah",
+            "Zip": "33142",
+            "MaskQuantity": "500",
+            "Lat": "30.2925",
+            "Long": "-85.64392"
+        },
+        {
+            "State": "Florida",
+            "City": "Liberty City and El Portal",
+            "Zip": "33150",
+            "MaskQuantity": "2000",
+            "Lat": "37.73623",
+            "Long": "-122.24452"
+        },
+        {
+            "State": "Florida",
+            "City": "Florida City",
+            "Zip": "33034",
+            "MaskQuantity": "800",
+            "Lat": "25.44812",
+            "Long": "-80.353"
+        },
+        {
+            "State": "Florida",
+            "City": "Overtown",
+            "Zip": "33136",
+            "MaskQuantity": "4000",
+            "Lat": "25.780931",
+            "Long": "-80.196308"
+        },
+        {
+            "State": "Florida",
+            "City": "Little Havana and Inner Downtown",
+            "Zip": "33128",
+            "MaskQuantity": "4000",
+            "Lat": "30.68801",
+            "Long": "-84.39837"
+        },
+        {
+            "State": "Florida",
+            "City": "Santa Rosa Beach",
+            "Zip": "32459",
+            "MaskQuantity": "200",
+            "Lat": "30.3958",
+            "Long": "-86.228897"
+        },
+        {
+            "State": "Florida",
+            "City": "Port Richey",
+            "Zip": "34667",
+            "MaskQuantity": "200",
+            "Lat": "28.272736",
+            "Long": "-82.720813"
+        },
+        {
+            "State": "Hawaii",
+            "City": "Fern Acres",
+            "Zip": "96778",
+            "MaskQuantity": "300",
+            "Lat": "47.16264",
+            "Long": "-114.85951"
+        },
+        {
+            "State": "Idaho",
+            "City": "Clark Fork",
+            "Zip": "83811",
+            "MaskQuantity": "300",
+            "Lat": "48.14536",
+            "Long": "-116.175024"
+        },
+        {
+            "State": "Illinois",
+            "City": "Decatur",
+            "Zip": "62523",
+            "MaskQuantity": "300",
+            "Lat": "33.234147",
+            "Long": "-97.586489"
+        },
+        {
+            "State": "Illinois",
+            "City": "Chicago",
+            "Zip": "60649",
+            "MaskQuantity": "1000",
+            "Lat": "42.301894",
+            "Long": "-87.850174"
+        },
+        {
+            "State": "Illinois",
+            "City": "Springfield",
+            "Zip": "62707",
+            "MaskQuantity": "2000",
+            "Lat": "42.102051",
+            "Long": "-72.585757"
+        },
+        {
+            "State": "Illinois",
+            "City": "Villa Park",
+            "Zip": "60181",
+            "MaskQuantity": "2000",
+            "Lat": "41.90529",
+            "Long": "-87.98656"
+        },
+        {
+            "State": "Indiana",
+            "City": "South Bend",
+            "Zip": "46601",
+            "MaskQuantity": "480",
+            "Lat": "26.712004",
+            "Long": "-81.824125"
+        },
+        {
+            "State": "Iowa",
+            "City": "Cedar Rapids",
+            "Zip": "52401",
+            "MaskQuantity": "380",
+            "Lat": "41.97659",
+            "Long": "-91.67311"
+        },
+        {
+            "State": "Kansas",
+            "City": "Topeka",
+            "Zip": "66612",
+            "MaskQuantity": "500",
+            "Lat": "39.03695",
+            "Long": "-95.68527"
+        },
+        {
+            "State": "Kentucky",
+            "City": "Louisville",
+            "Zip": "40203",
+            "MaskQuantity": "500",
+            "Lat": "38.00035",
+            "Long": "-85.48975"
+        },
+        {
+            "State": "Louisiana",
+            "City": "New Orleans",
+            "Zip": "70113",
+            "MaskQuantity": "4000",
+            "Lat": "29.99119",
+            "Long": "-90.06688"
+        },
+        {
+            "State": "Louisiana",
+            "City": "Jackson",
+            "Zip": "70748",
+            "MaskQuantity": "100",
+            "Lat": "30.74221",
+            "Long": "-91.24882"
+        },
+        {
+            "State": "Louisiana",
+            "City": "Bossier City",
+            "Zip": "71111",
+            "MaskQuantity": "300",
+            "Lat": "32.49628",
+            "Long": "-93.69428"
+        },
+        {
+            "State": "Louisiana",
+            "City": "Zachary",
+            "Zip": "70791",
+            "MaskQuantity": "4000",
+            "Lat": "30.64886",
+            "Long": "-91.1043"
+        },
+        {
+            "State": "Maine",
+            "City": "Crawford",
+            "Zip": "4668",
+            "MaskQuantity": "100",
+            "Lat": "44.74606",
+            "Long": "-68.72602"
+        },
+        {
+            "State": "Maryland",
+            "City": "Baltimore",
+            "Zip": "21223",
+            "MaskQuantity": "400",
+            "Lat": "39.57441",
+            "Long": "-75.9845"
+        },
+        {
+            "State": "Maryland",
+            "City": "Baltimore",
+            "Zip": "21212",
+            "MaskQuantity": "800",
+            "Lat": "39.57441",
+            "Long": "-75.9845"
+        },
+        {
+            "State": "Massachusetts",
+            "City": "Newton",
+            "Zip": "2458",
+            "MaskQuantity": "300",
+            "Lat": "42.34911",
+            "Long": "-71.22744"
+        },
+        {
+            "State": "Massachusetts",
+            "City": "Duxbury",
+            "Zip": "2332",
+            "MaskQuantity": "60",
+            "Lat": "44.327198",
+            "Long": "-72.752724"
+        },
+        {
+            "State": "Massachusetts",
+            "City": "Springfield",
+            "Zip": "1105",
+            "MaskQuantity": "800",
+            "Lat": "39.79936",
+            "Long": "-89.643624"
+        },
+        {
+            "State": "Massachusetts",
+            "City": "Summerville",
+            "Zip": "2145",
+            "MaskQuantity": "16667",
+            "Lat": "42.06307",
+            "Long": "-71.23946"
+        },
+        {
+            "State": "Michigan",
+            "City": "Detroit",
+            "Zip": "48201",
+            "MaskQuantity": "2500",
+            "Lat": "44.734798",
+            "Long": "-122.150327"
+        },
+        {
+            "State": "Michigan",
+            "City": "Flushing",
+            "Zip": "48433",
+            "MaskQuantity": "300",
+            "Lat": "43.08048",
+            "Long": "-83.92873"
+        },
+        {
+            "State": "Michigan",
+            "City": "Bingham Farms",
+            "Zip": "48035",
+            "MaskQuantity": "2000",
+            "Lat": "42.52297",
+            "Long": "-83.2812"
+        },
+        {
+            "State": "Michigan",
+            "City": "Dearborn",
+            "Zip": "48126",
+            "MaskQuantity": "2000",
+            "Lat": "42.29827",
+            "Long": "-83.27863"
+        },
+        {
+            "State": "Michigan",
+            "City": "Springbrook",
+            "Zip": "48336",
+            "MaskQuantity": "240",
+            "Lat": "42.20471",
+            "Long": "-86.38237"
+        },
+        {
+            "State": "Michigan",
+            "City": "Detroit",
+            "Zip": "48240",
+            "MaskQuantity": "1200",
+            "Lat": "44.734798",
+            "Long": "-122.150327"
+        },
+        {
+            "State": "Michigan",
+            "City": "Canton",
+            "Zip": "48188",
+            "MaskQuantity": "1960",
+            "Lat": "42.27516",
+            "Long": "-83.47353"
+        },
+        {
+            "State": "Michigan",
+            "City": "Milan",
+            "Zip": "48160",
+            "MaskQuantity": "20",
+            "Lat": "42.08934",
+            "Long": "-83.68694"
+        },
+        {
+            "State": "Minnesota",
+            "City": "Minneapolis",
+            "Zip": "55454",
+            "MaskQuantity": "800",
+            "Lat": "45.00569",
+            "Long": "-93.22664"
+        },
+        {
+            "State": "Mississippi",
+            "City": "Montgomery",
+            "Zip": "39169",
+            "MaskQuantity": "1500",
+            "Lat": "32.376547",
+            "Long": "-86.299651"
+        },
+        {
+            "State": "Missouri",
+            "City": "St. Louis",
+            "Zip": "63106",
+            "MaskQuantity": "500",
+            "Lat": "36.80423",
+            "Long": "-91.84705"
+        },
+        {
+            "State": "Missouri",
+            "City": "Kansas City",
+            "Zip": "64132",
+            "MaskQuantity": "1000",
+            "Lat": "39.00701",
+            "Long": "-94.52994"
+        },
+        {
+            "State": "Montana",
+            "City": "Pablo",
+            "Zip": "59855",
+            "MaskQuantity": "180",
+            "Lat": "47.59879",
+            "Long": "-114.12382"
+        },
+        {
+            "State": "Montana",
+            "City": "Stevensville",
+            "Zip": "59870",
+            "MaskQuantity": "2000",
+            "Lat": "46.56849",
+            "Long": "-114.024342"
+        },
+        {
+            "State": "Nebraska",
+            "City": "Lincoln",
+            "Zip": "68508",
+            "MaskQuantity": "300",
+            "Lat": "40.813599",
+            "Long": "-96.70261"
+        },
+        {
+            "State": "Nebraska",
+            "City": "Omaha Tribe- Macy",
+            "Zip": "68039",
+            "MaskQuantity": "800",
+            "Lat": "42.11456",
+            "Long": "-96.3571"
+        },
+        {
+            "State": "Nevada",
+            "City": "Downtown Arts District",
+            "Zip": "89101",
+            "MaskQuantity": "200",
+            "Lat": "36.1589",
+            "Long": "-115.1536"
+        },
+        {
+            "State": "Nevada",
+            "City": "Reno",
+            "Zip": "89521",
+            "MaskQuantity": "100",
+            "Lat": "37.837233",
+            "Long": "-94.359373"
+        },
+        {
+            "State": "Nevada",
+            "City": "Paiute Tribes, Shurz",
+            "Zip": "89427",
+            "MaskQuantity": "300",
+            "Lat": "38.94701",
+            "Long": "-118.81447"
+        },
+        {
+            "State": "Nevada",
+            "City": "Schurz",
+            "Zip": "89427",
+            "MaskQuantity": "300",
+            "Lat": "38.60935",
+            "Long": "-118.60635"
+        },
+        {
+            "State": "New Hampshire",
+            "City": "Downtown Manchester",
+            "Zip": "3101",
+            "MaskQuantity": "380",
+            "Lat": "39.957205",
+            "Long": "-74.393877"
+        },
+        {
+            "State": "New Jersey",
+            "City": "Old Bridge",
+            "Zip": "8857",
+            "MaskQuantity": "1300",
+            "Lat": "40.100077",
+            "Long": "-74.081867"
+        },
+        {
+            "State": "New Jersey",
+            "City": "North Camden",
+            "Zip": "8102",
+            "MaskQuantity": "2000",
+            "Lat": "33.573858",
+            "Long": "-117.651372"
+        },
+        {
+            "State": "New Jersey",
+            "City": "Glenrock",
+            "Zip": "7452",
+            "MaskQuantity": "1000",
+            "Lat": "40.96803",
+            "Long": "-74.37641"
+        },
+        {
+            "State": "New Jersey",
+            "City": "Manasquan",
+            "Zip": "8736",
+            "MaskQuantity": "300",
+            "Lat": "40.1244",
+            "Long": "-74.069"
+        },
+        {
+            "State": "New Jersey",
+            "City": "Fort Lee ",
+            "Zip": "7024",
+            "MaskQuantity": "1000",
+            "Lat": "40.85008",
+            "Long": "-73.97036"
+        },
+        {
+            "State": "New Mexico",
+            "City": "Dulce",
+            "Zip": "87528",
+            "MaskQuantity": "300",
+            "Lat": "35.88093",
+            "Long": "-106.32101"
+        },
+        {
+            "State": "New Mexico",
+            "City": "Albuquerque",
+            "Zip": "87108",
+            "MaskQuantity": "300",
+            "Lat": "35.05658",
+            "Long": "-106.65422"
+        },
+        {
+            "State": "New Mexico",
+            "City": "Albuquerque",
+            "Zip": "87106",
+            "MaskQuantity": "800",
+            "Lat": "35.05658",
+            "Long": "-106.65422"
+        },
+        {
+            "State": "New Mexico",
+            "City": "Farmington",
+            "Zip": "87401",
+            "MaskQuantity": "300",
+            "Lat": "36.92766",
+            "Long": "-108.15981"
+        },
+        {
+            "State": "New Mexico",
+            "City": "Ojo Sarco",
+            "Zip": "87421",
+            "MaskQuantity": "800",
+            "Lat": "36.14481",
+            "Long": "-105.54145"
+        },
+        {
+            "State": "New Mexico",
+            "City": "Farmington",
+            "Zip": "87401",
+            "MaskQuantity": "1000",
+            "Lat": "36.92766",
+            "Long": "-108.15981"
+        },
+        {
+            "State": "New Mexico",
+            "City": "Zuni",
+            "Zip": "87327",
+            "MaskQuantity": "300",
+            "Lat": "33.34509",
+            "Long": "-105.56979"
+        },
+        {
+            "State": "New York",
+            "City": "Downtown Albany",
+            "Zip": "12207",
+            "MaskQuantity": "300",
+            "Lat": "42.64913",
+            "Long": "-73.75331"
+        },
+        {
+            "State": "New York",
+            "City": "Seneca Nation, Irving",
+            "Zip": "14081",
+            "MaskQuantity": "1000",
+            "Lat": "42.54145",
+            "Long": "-78.99643"
+        },
+        {
+            "State": "New York",
+            "City": "Irving",
+            "Zip": "14081",
+            "MaskQuantity": "900",
+            "Lat": "42.58847",
+            "Long": "-79.0371"
+        },
+        {
+            "State": "New York",
+            "City": "East Hampton",
+            "Zip": "11937",
+            "MaskQuantity": "200",
+            "Lat": "43.132056",
+            "Long": "-79.231098"
+        },
+        {
+            "State": "New York",
+            "City": "East Setauket",
+            "Zip": "11733",
+            "MaskQuantity": "200",
+            "Lat": "40.90456",
+            "Long": "-73.07241"
+        },
+        {
+            "State": "New York",
+            "City": "College Point",
+            "Zip": "11356",
+            "MaskQuantity": "100",
+            "Lat": "40.76024",
+            "Long": "-73.835"
+        },
+        {
+            "State": "New York",
+            "City": "Brooklyn",
+            "Zip": "11230",
+            "MaskQuantity": "60",
+            "Lat": "31.03233",
+            "Long": "-89.16744"
+        },
+        {
+            "State": "New York",
+            "City": "Brooklyn",
+            "Zip": "11234",
+            "MaskQuantity": "200",
+            "Lat": "31.03233",
+            "Long": "-89.16744"
+        },
+        {
+            "State": "New York",
+            "City": "Staten Island",
+            "Zip": "10302",
+            "MaskQuantity": "1000",
+            "Lat": "40.57888",
+            "Long": "-74.16501"
+        },
+        {
+            "State": "New York",
+            "City": "Bellerose",
+            "Zip": "11426",
+            "MaskQuantity": "100",
+            "Lat": "40.73405",
+            "Long": "-73.72362"
+        },
+        {
+            "State": "New York",
+            "City": "Patchoque",
+            "Zip": "11772",
+            "MaskQuantity": "60",
+            "Lat": "40.78338",
+            "Long": "-73.00863"
+        },
+        {
+            "State": "New York",
+            "City": "Bronx",
+            "Zip": "10128",
+            "MaskQuantity": "4000",
+            "Lat": "40.88859",
+            "Long": "-73.82813"
+        },
+        {
+            "State": "New York",
+            "City": "Bronx",
+            "Zip": "10451",
+            "MaskQuantity": "2500",
+            "Lat": "40.88859",
+            "Long": "-73.82813"
+        },
+        {
+            "State": "New York",
+            "City": "Bronx",
+            "Zip": "10013",
+            "MaskQuantity": "2000",
+            "Lat": "40.88859",
+            "Long": "-73.82813"
+        },
+        {
+            "State": "New York",
+            "City": "Long Beach",
+            "Zip": "11561",
+            "MaskQuantity": "2000",
+            "Lat": "40.58675",
+            "Long": "-73.68691"
+        },
+        {
+            "State": "New York",
+            "City": "Broadalbin",
+            "Zip": "12025",
+            "MaskQuantity": "2000",
+            "Lat": "43.05366",
+            "Long": "-74.19477"
+        },
+        {
+            "State": "New York",
+            "City": "Montauk",
+            "Zip": "11954",
+            "MaskQuantity": "5000",
+            "Lat": "40.66648",
+            "Long": "-73.87498"
+        },
+        {
+            "State": "New York",
+            "City": "Forest Hills",
+            "Zip": "11375",
+            "MaskQuantity": "2000",
+            "Lat": "40.71431",
+            "Long": "-73.83302"
+        },
+        {
+            "State": "New York",
+            "City": "Brooklyn",
+            "Zip": "11206",
+            "MaskQuantity": "4000",
+            "Lat": "31.03233",
+            "Long": "-89.16744"
+        },
+        {
+            "State": "New York",
+            "City": "Brooklyn- Springfield Gardens",
+            "Zip": "11201",
+            "MaskQuantity": "16667",
+            "Lat": "40.6664",
+            "Long": "-73.7532"
+        },
+        {
+            "State": "New York",
+            "City": "Brooklyn",
+            "Zip": "11249",
+            "MaskQuantity": "4000",
+            "Lat": "31.03233",
+            "Long": "-89.16744"
+        },
+        {
+            "State": "New York",
+            "City": "Brooklyn",
+            "Zip": "11238",
+            "MaskQuantity": "4000",
+            "Lat": "31.03233",
+            "Long": "-89.16744"
+        },
+        {
+            "State": "New York",
+            "City": "Brooklyn",
+            "Zip": "11222",
+            "MaskQuantity": "2000",
+            "Lat": "31.03233",
+            "Long": "-89.16744"
+        },
+        {
+            "State": "New York",
+            "City": "Brooklyn",
+            "Zip": "11207",
+            "MaskQuantity": "4000",
+            "Lat": "31.03233",
+            "Long": "-89.16744"
+        },
+        {
+            "State": "New York",
+            "City": "Brooklyn",
+            "Zip": "11209",
+            "MaskQuantity": "2000",
+            "Lat": "31.03233",
+            "Long": "-89.16744"
+        },
+        {
+            "State": "New York",
+            "City": "Glen Oaks",
+            "Zip": "11004",
+            "MaskQuantity": "4000",
+            "Lat": "40.73794",
+            "Long": "-73.70558"
+        },
+        {
+            "State": "New York",
+            "City": "North Bellmore",
+            "Zip": "11710",
+            "MaskQuantity": "2000",
+            "Lat": "40.67977",
+            "Long": "-73.53772"
+        },
+        {
+            "State": "New York",
+            "City": "New York",
+            "Zip": "10065",
+            "MaskQuantity": "4000",
+            "Lat": "40.713054",
+            "Long": "-74.007228"
+        },
+        {
+            "State": "New York",
+            "City": "New York",
+            "Zip": "10028",
+            "MaskQuantity": "4000",
+            "Lat": "40.713054",
+            "Long": "-74.007228"
+        },
+        {
+            "State": "New York",
+            "City": "New York",
+            "Zip": "10128",
+            "MaskQuantity": "2000",
+            "Lat": "40.713054",
+            "Long": "-74.007228"
+        },
+        {
+            "State": "New York",
+            "City": "New York",
+            "Zip": "10024",
+            "MaskQuantity": "4000",
+            "Lat": "40.713054",
+            "Long": "-74.007228"
+        },
+        {
+            "State": "New York",
+            "City": "New York",
+            "Zip": "10024",
+            "MaskQuantity": "2000",
+            "Lat": "40.713054",
+            "Long": "-74.007228"
+        },
+        {
+            "State": "New York",
+            "City": "New York",
+            "Zip": "10021",
+            "MaskQuantity": "200",
+            "Lat": "40.713054",
+            "Long": "-74.007228"
+        },
+        {
+            "State": "New York",
+            "City": "New York",
+            "Zip": "10029-7353",
+            "MaskQuantity": "2000",
+            "Lat": "40.713054",
+            "Long": "-74.007228"
+        },
+        {
+            "State": "New York",
+            "City": "Woodside",
+            "Zip": "11377",
+            "MaskQuantity": "2000",
+            "Lat": "43.02542",
+            "Long": "-77.34865"
+        },
+        {
+            "State": "North Carolina",
+            "City": "Longwood",
+            "Zip": "28452",
+            "MaskQuantity": "400",
+            "Lat": "34.01693",
+            "Long": "-78.56072"
+        },
+        {
+            "State": "North Carolina",
+            "City": "Durham",
+            "Zip": "27701",
+            "MaskQuantity": "300",
+            "Lat": "39.645937",
+            "Long": "-121.80155"
+        },
+        {
+            "State": "North Dakota",
+            "City": "Fort Totten",
+            "Zip": "58335",
+            "MaskQuantity": "300",
+            "Lat": "47.98585",
+            "Long": "-98.99985"
+        },
+        {
+            "State": "North Dakota",
+            "City": "Standing Rock Sioux Tribe, Fort Yates",
+            "Zip": "58538",
+            "MaskQuantity": "1000",
+            "Lat": "46.06543",
+            "Long": "-100.64189"
+        },
+        {
+            "State": "Ohio",
+            "City": "Youngstown",
+            "Zip": "44503",
+            "MaskQuantity": "300",
+            "Lat": "51.526483",
+            "Long": "-111.200424"
+        },
+        {
+            "State": "Ohio",
+            "City": "Georgetown",
+            "Zip": "45121",
+            "MaskQuantity": "200",
+            "Lat": "38.690912",
+            "Long": "-75.384799"
+        },
+        {
+            "State": "Ohio",
+            "City": "Cincinnati",
+            "Zip": "45249",
+            "MaskQuantity": "200",
+            "Lat": "40.630944",
+            "Long": "-92.924459"
+        },
+        {
+            "State": "Ohio",
+            "City": "Seaman",
+            "Zip": "45679",
+            "MaskQuantity": "200",
+            "Lat": "38.96871",
+            "Long": "-83.65398"
+        },
+        {
+            "State": "Ohio",
+            "City": "Ripley",
+            "Zip": "45168",
+            "MaskQuantity": "200",
+            "Lat": "38.78022",
+            "Long": "-83.71166"
+        },
+        {
+            "State": "Ohio",
+            "City": "Sardinia",
+            "Zip": "45171",
+            "MaskQuantity": "200",
+            "Lat": "39.10544",
+            "Long": "-83.84297"
+        },
+        {
+            "State": "Ohio",
+            "City": "Mt. Orab",
+            "Zip": "45154",
+            "MaskQuantity": "300",
+            "Lat": "38.88336",
+            "Long": "-83.89926"
+        },
+        {
+            "State": "Ohio",
+            "City": "Maineville",
+            "Zip": "45039",
+            "MaskQuantity": "2500",
+            "Lat": "39.315034",
+            "Long": "-84.220769"
+        },
+        {
+            "State": "Oklahoma",
+            "City": "Taft",
+            "Zip": "73444",
+            "MaskQuantity": "500",
+            "Lat": "35.74753",
+            "Long": "-95.55318"
+        },
+        {
+            "State": "Oregon",
+            "City": "East Portland",
+            "Zip": "97204",
+            "MaskQuantity": "1000",
+            "Lat": "45.4371",
+            "Long": "-122.72827"
+        },
+        {
+            "State": "Pennsylvania",
+            "City": "Erie",
+            "Zip": "16501",
+            "MaskQuantity": "1000",
+            "Lat": "40.051548",
+            "Long": "-105.047448"
+        },
+        {
+            "State": "Puerto Rico",
+            "City": "Guaynabo",
+            "Zip": "966",
+            "MaskQuantity": "700",
+            "Lat": "18.357203",
+            "Long": "-66.110865"
+        },
+        {
+            "State": "Puerto Rico",
+            "City": "San Juan",
+            "Zip": "926",
+            "MaskQuantity": "4000",
+            "Lat": "18.446344",
+            "Long": "-66.07558"
+        },
+        {
+            "State": "Puerto Rico",
+            "City": "Villalba",
+            "Zip": "766",
+            "MaskQuantity": "200",
+            "Lat": "18.12663",
+            "Long": "-66.491861"
+        },
+        {
+            "State": "Rhode Island",
+            "City": "Central Falls and Cumberland",
+            "Zip": "2863",
+            "MaskQuantity": "800",
+            "Lat": "41.89126",
+            "Long": "-71.38738"
+        },
+        {
+            "State": "Rhode Island",
+            "City": "Woonsocket",
+            "Zip": "2895",
+            "MaskQuantity": "800",
+            "Lat": "41.994735",
+            "Long": "-71.498997"
+        },
+        {
+            "State": "South Carolina",
+            "City": "Bath",
+            "Zip": "29816",
+            "MaskQuantity": "300",
+            "Lat": "35.44581",
+            "Long": "-76.71591"
+        },
+        {
+            "State": "South Carolina",
+            "City": "Columbia",
+            "Zip": "29210",
+            "MaskQuantity": "800",
+            "Lat": "34.02442",
+            "Long": "-81.03801"
+        },
+        {
+            "State": "South Carolina",
+            "City": "Duncan",
+            "Zip": "29334",
+            "MaskQuantity": "20",
+            "Lat": "34.94089",
+            "Long": "-82.13618"
+        },
+        {
+            "State": "South Dakota",
+            "City": "Cheyenne RIver Sioux Tribe, Eagle Butte",
+            "Zip": "57625",
+            "MaskQuantity": "1000",
+            "Lat": "45.09257",
+            "Long": "-101.15942"
+        },
+        {
+            "State": "South Dakota",
+            "City": "Wounded Knee",
+            "Zip": "57794",
+            "MaskQuantity": "1000",
+            "Lat": "43.14519",
+            "Long": "-102.37321"
+        },
+        {
+            "State": "South Dakota",
+            "City": "Sisseton Wahepenton Oyate, Sisseton",
+            "Zip": "57260",
+            "MaskQuantity": "1000",
+            "Lat": "45.6597",
+            "Long": "-96.90666"
+        },
+        {
+            "State": "South Dakota",
+            "City": "Oglala Sioux Tribe, Pine Ridge",
+            "Zip": "57770",
+            "MaskQuantity": "1000",
+            "Lat": "43.01279",
+            "Long": "-102.55449"
+        },
+        {
+            "State": "Tennessee",
+            "City": "West Chattanooga",
+            "Zip": "37402",
+            "MaskQuantity": "400",
+            "Lat": "35.00813",
+            "Long": "-85.32395"
+        },
+        {
+            "State": "Tennessee",
+            "City": "Columbia",
+            "Zip": "38401",
+            "MaskQuantity": "2000",
+            "Lat": "35.53033",
+            "Long": "-87.09003"
+        },
+        {
+            "State": "Tennessee",
+            "City": "Greenback",
+            "Zip": "37742",
+            "MaskQuantity": "2000",
+            "Lat": "35.65801",
+            "Long": "-84.17223"
+        },
+        {
+            "State": "Texas",
+            "City": "Houston",
+            "Zip": "77019",
+            "MaskQuantity": "600",
+            "Lat": "37.321263",
+            "Long": "-91.957798"
+        },
+        {
+            "State": "Texas",
+            "City": "El Paso Chihuahuita",
+            "Zip": "79901",
+            "MaskQuantity": "640",
+            "Lat": "31.75147",
+            "Long": "-106.48707"
+        },
+        {
+            "State": "Utah",
+            "City": "Salt Lake City",
+            "Zip": "84102",
+            "MaskQuantity": "800",
+            "Lat": "40.75525",
+            "Long": "-111.89394"
+        },
+        {
+            "State": "Vermont",
+            "City": "Sutton",
+            "Zip": "5822",
+            "MaskQuantity": "200",
+            "Lat": "42.095798",
+            "Long": "-88.194199"
+        },
+        {
+            "State": "Virginia",
+            "City": "Hurley",
+            "Zip": "24620",
+            "MaskQuantity": "300",
+            "Lat": "37.42048",
+            "Long": "-82.02013"
+        },
+        {
+            "State": "Virginia",
+            "City": "Chincoteague",
+            "Zip": "23336",
+            "MaskQuantity": "260",
+            "Lat": "37.92547",
+            "Long": "-75.38802"
+        },
+        {
+            "State": "Virginia",
+            "City": "Stafford",
+            "Zip": "22554",
+            "MaskQuantity": "200",
+            "Lat": "52.79387",
+            "Long": "-2.10254"
+        },
+        {
+            "State": "Washington",
+            "City": "-",
+            "Zip": "99155",
+            "MaskQuantity": "500",
+            "Lat": "38.892062",
+            "Long": "-77.019912"
+        },
+        {
+            "State": "Washington",
+            "City": "Seattle",
+            "Zip": "98102",
+            "MaskQuantity": "1200",
+            "Lat": "47.49648",
+            "Long": "-122.26958"
+        },
+        {
+            "State": "Washington",
+            "City": "Seattle",
+            "Zip": "98104",
+            "MaskQuantity": "16667",
+            "Lat": "47.49648",
+            "Long": "-122.26958"
+        },
+        {
+            "State": "Washington",
+            "City": "Native American Boarding School- Healing Center- Tulalip",
+            "Zip": "98271",
+            "MaskQuantity": "1000",
+            "Lat": "39.390897",
+            "Long": "-99.066067"
+        },
+        {
+            "State": "West Virginia",
+            "City": "Huntington",
+            "Zip": "25703",
+            "MaskQuantity": "500",
+            "Lat": "38.38844",
+            "Long": "-82.38952"
+        },
+        {
+            "State": "Wisconsin",
+            "City": "Milwaukee",
+            "Zip": "53233",
+            "MaskQuantity": "2000",
+            "Lat": "44.45412",
+            "Long": "-87.50301"
+        },
+        {
+            "State": "Wyoming",
+            "City": "Mills",
+            "Zip": "82644",
+            "MaskQuantity": "800",
+            "Lat": "42.8504",
+            "Long": "-106.36119"
+        },
+        {
+            "State": "*Netherlands",
+            "City": "Eindhoven",
+            "Zip": "5632TM",
+            "MaskQuantity": "60",
+            "Lat": "51.49871",
+            "Long": "5.45769"
+        },
+        {
+            "State": "*Canada",
+            "City": "Victoria",
+            "Zip": "V8Z 2L3",
+            "MaskQuantity": "500",
+            "Lat": "48.4275",
+            "Long": "-123.36726"
+        },
+        {
+            "State": "Haiti",
+            "City": "Port Au Prince",
+            "Zip": "HT 6110",
+            "MaskQuantity": "30000",
+            "Lat": "18.585457",
+            "Long": "-72.326748"
+        },
+        {
+            "State": "Bahamas",
+            "City": "Freeport",
+            "Zip": "BF25",
+            "MaskQuantity": "4000",
+            "Lat": "43.857325",
+            "Long": "-70.102769"
+        },
+        {
+            "State": "Bahamas",
+            "City": "Abaco",
+            "Zip": "BF37",
+            "MaskQuantity": "2800",
+            "Lat": "26.02648",
+            "Long": "-77.40189"
+        }
+    ]
+}
